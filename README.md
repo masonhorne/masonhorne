@@ -1,7 +1,7 @@
 ### Hi, I'm Mason Horne :wave:
 
-- I am working on a bachelors of computer science :computer: with a minor in mathematics ➗ from NC State :wolf:
-- When I'm not doing school I am working on Competitive Programming problems 🏆
+- I am working on a bachelors of computer science with a minor in mathematics from NC State :wolf:
+- When I'm not doing school I am working on Competitive Programming problems and other side projects :computer:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=masonhorne&show_icons=true&locale=en&count_private=true&theme=onedark&hide_rank=true" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonhorne&theme=onedark&layout=compact" /></p>
